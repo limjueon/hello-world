@@ -1,10 +1,5 @@
 <heder>
-  # hello, World
 
-  _My first MuseScore project_
+# hello, world
 
-  </heder>
-
-  # i
-- My first MuseScore project -
-main() {print("Hello, world!")
+__My projet MuseScore First_
