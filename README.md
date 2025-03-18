@@ -1,1 +1,2 @@
-# hello-world
+# hello-world 
+main() {print("Hello, world!")
