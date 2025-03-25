@@ -8,4 +8,4 @@ My name is **Ju Eon Lem**, and I am majoringg in viola
 
 This is my first  Github repository
 
-<img scr="hello-world.png">
+<img src="hello-world.png">
