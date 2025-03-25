@@ -4,7 +4,7 @@
 
 _This is History of Western Music 3 at Hanyang University._
 
-_My name is Lem ju eon, and I am_
+_My name is Lem ju eon, and I am majoringg in viola_
 
 _This is my first  Github repository_
 
